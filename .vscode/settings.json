@@ -1,0 +1,6 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "vsintellicode.java.completionsEnabled": false,
+    "django.i18n": false,
+    "django.snippets.use": false
+}
